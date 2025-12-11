@@ -1,7 +1,7 @@
 ;%UNITS=INCH
 ;%VERSION=3.0
 ;
-*cob_double
+*terran_cob_dbl
 ;
 ;angle, x,      y,      shift,  offset, dash,   space
 
@@ -12,7 +12,7 @@
 ; STAGGERED PAIRS OF HORIZONTAL DASHES
 ; The following four rows of numbers create a repeating pattern 
 ; of two pairs of horizontal dashed lines. The second pair is staggered 
-; by one cell with respect to the first pair.
+; by one cell with respect to the first.
 ; ------ First Pair -------
 0,   0,  3, 0, 18, 10.50, -7.50
 0,   0,  6, 0, 18, 10.50, -7.50
@@ -30,4 +30,5 @@
 90,  6,  9, 0, 18, 10.50, -7.50
 ; ------ Second Pair -------
 90, 12,  0, 0, 18, 10.50, -7.50
+
 90, 15,  0, 0, 18, 10.50, -7.50
