@@ -12,7 +12,7 @@
 ; STAGGERED PAIRS OF HORIZONTAL DASHES
 ; The following four rows of numbers create a repeating pattern 
 ; of two pairs of horizontal dashed lines. The second pair is staggered 
-; by one cell with respect to the first cell.
+; by one cell with respect to the first.
 ; ------ First Pair -------
 0,   0,     0.06,  0, 0.36, 0.21, -0.15
 0,   0,     0.12,  0, 0.36, 0.21, -0.15
@@ -30,4 +30,5 @@
 90,  0.12,  0.18,  0, 0.36, 0.21, -0.15
 ; ------ Second Pair -------
 90,  0.24,  0,     0, 0.36, 0.21, -0.15
+
 90,  0.30,  0,     0, 0.36, 0.21, -0.15
