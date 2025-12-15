@@ -1,4 +1,4 @@
-*cob_single
+*terran_cob_sgl
 ;angle, x, y, shift,  offset, dash,   space
 
 ; BASE CELL GRID
